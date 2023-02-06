@@ -1,0 +1,16 @@
+let name="NAME               Uzumaki Naruto";
+console.log(name);
+let schoolname="SCHOOL NAME        Konoha Public School";
+console.log(schoolname);
+let grade="GRADE              A";
+console.log(grade);
+let section="SECTION            A";
+console.log(section);
+let rollno="ROLL NO            38";
+console.log(rollno);
+let sub1="MATHS             78/100";
+console.log(sub1);
+let sub2="SCIENCE           85/100";
+console.log(sub2);
+let sub3="ENGLISH           91/100";
+console.log(sub3);
